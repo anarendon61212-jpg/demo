@@ -1,4 +1,4 @@
 #esti es una prueba
-print("estoy en la universidad")
+print("estoy en la universidad estudiando")
 print("Felipe")
 print("estoy aprendiendo a programar")
